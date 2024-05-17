@@ -1,12 +1,14 @@
 # Food Diary Dashboard
 
-Welcome to the **Food Diary** Power BI dashboard, a comprehensive tool designed to help you track and analyze your daily and periodic nutritional intake and physical activity. This dashboard provides a detailed overview of your macronutrient and micronutrient consumption, water intake, step count, and weight trends throughout the year. Below is a description of the dashboard elements and their functionality.
+Welcome to the **Food Diary** Power BI dashboard, a comprehensive tool designed to help you track and analyze your daily and periodic nutritional intake and physical activity. This dashboard provides a detailed overview of your macronutrient and micronutrient consumption, water intake, step count, and weight trends throughout the year. Below is a short demonstration and a description of the dashboard elements and their functionality.
 
-
+![](https://github.com/Meenakshijk17/Lifestyle-Tracker/blob/main/Lifestyle_dashboard_demo.gif)
 
 *Note. I am continuously updating the features of the dashboard to enhance its functionality and provide more valuable insights. Feel free to explore the dashboard, and if you have any feedback or suggestions, please reach out. Your input is invaluable in making this tool even better! Stay tuned for new features and improvements!*
 
 ### Today View
+
+![](https://github.com/Meenakshijk17/Lifestyle-Tracker/blob/main/diary_today.png)
 
 1. **Macronutrient Distribution of the Day**:
    - A visual representation of your carbohydrate, protein, and fat intake for the current day. This chart helps you understand how balanced your diet is on a daily basis.
@@ -21,6 +23,8 @@ Welcome to the **Food Diary** Power BI dashboard, a comprehensive tool designed 
    - A detailed visualization of your intake of essential vitamins and minerals for the day, ensuring you are getting the necessary nutrients for optimal health.
 
 ### Custom Date Range View
+
+![](https://github.com/Meenakshijk17/Lifestyle-Tracker/blob/main/diary_custom.png)
 
 1. **Date Slicer**:
    - An interactive date slicer that allows you to select a custom date range for more detailed analysis. You can choose any period within the year to see the aggregated data for that time frame.
